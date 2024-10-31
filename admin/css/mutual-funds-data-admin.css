@@ -1,0 +1,37 @@
+/**
+ * All of the CSS for your admin-specific functionality should be
+ * included in this file.
+ */
+ div.search-mf-container{
+    width: 600px;
+    height: 300px;    
+    overflow: auto;
+}
+
+div.mfd-title{
+    margin: 10px 0px 10px 0px;
+}
+
+div.mfd-search-row-1{
+    margin: 10px 0px 10px 0px;
+}
+
+div.mfd-search-results{
+    background-color: #00d09c;  
+    margin: 5px 0px 0px 0px;  
+    min-height: 50px;
+    display: none;
+}
+
+input.mfd-search-result-items{
+    margin: 5px 0px 5px 10px;
+}
+
+div.mfd-message{
+    background-color:#FF1f00;
+    color: #f9fafa;
+    font-size: 15px;
+    padding: 5px 0px 5px 5px;
+    margin: 5px 0px 5px 0px;
+    display: none;
+}
